@@ -1,16 +1,16 @@
-Красивый модуль "Рекомендуемые товары" для opencart 1.5.1.3 / vqmod
+Beautiful module "Recommended Products" for opencart 1.5.1.3 / vqmod
 ------
 
 Beautiful "featured" module for opencart 1.5.1.3 (vqmod)
 
-!!! Сделан для темы default и opencart 1.5.1.3 !!!
+!!! Made for the default theme and opencart 1.5.1.3 !!!
 
-Рекомендуемые товары располагаются сеткой по 4 шт. в столбце. При наведении курсора мыши на товар - блок увеличивается по-вертикали, становится видно "атрибуты" товара и кнопку "Купить".
+Featured products are arranged in a grid of 4. in the column. When you hover the mouse cursor over a product - the block increases vertically, the "attributes" of the product and the "Buy" button become visible.
 
-Как это выглядит - oc.jpg. 
-На картинке 1й товар - на нем курсор мыши.
+How it looks - oc.jpg.
+In the picture, the 1st product is the mouse cursor on it.
 
-Установка
+Installation
 ---------
-1. Установить vqmod (http://code.google.com/p/vqmod/)
-2. Залить все 2 файла из ./upload/ на сервер
+1. Install vqmod (http://code.google.com/p/vqmod/)
+2. Upload all 2 files from ./upload/ to the server 
